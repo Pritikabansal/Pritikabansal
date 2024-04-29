@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritika Bansal</h1>
-<h3  font-family:"arial" >Hello, I'm Pritika Bansal, a driven B.Tech student with a passion for web design and a clear vision of becoming a skilled software developer. I thrive on challenges and am constantly seeking opportunities to enhance my skills and knowledge in the tech industry.</h3>
+<h4  font-family:"arial" >Hello, I'm Pritika Bansal, a driven B.Tech student with a passion for web design and a clear vision of becoming a skilled software developer. I thrive on challenges and am constantly seeking opportunities to enhance my skills and knowledge in the tech industry.</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikabansal&label=Profile%20views&color=green&style=flat" alt="pritikabansal" /> </p>
