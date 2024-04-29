@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pritika Bansal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3  font-family:"arial" >Hello, I'm Pritika Bansal, a driven B.Tech student with a passion for web design and a clear vision of becoming a skilled software developer. I thrive on challenges and am constantly seeking opportunities to enhance my skills and knowledge in the tech industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikabansal&label=Profile%20views&color=0e75b6&style=flat" alt="pritikabansal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikabansal&label=Profile%20views&color=green&style=flat" alt="pritikabansal" /> </p>
 
 - 🌱 I’m currently learning **React and NodeJS**
 
@@ -27,6 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritikabansal&show_icons=true&locale=en&layout=compact" alt="pritikabansal" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritikabansal&show_icons=true&locale=en" alt="pritikabansal" /></p>
+<p>&nbsp;<img align="center" width="340" src="https://github-readme-stats.vercel.app/api?username=pritikabansal&show_icons=true&locale=en" alt="pritikabansal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritikabansal&" alt="pritikabansal" /></p>
